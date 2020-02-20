@@ -27,7 +27,7 @@ def using_concat(array)
 end
 
 def using_insert(array)
-  array.insert(4, apple)
+  array.insert(4)
 end
 
 
