@@ -27,7 +27,7 @@ def using_concat(array)
 end
 
 def using_insert(array)
-  array(4, 'Phyton')
+  array('Phyton')
 end
 
 
