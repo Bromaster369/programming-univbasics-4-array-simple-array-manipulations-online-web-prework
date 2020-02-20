@@ -1,3 +1,3 @@
-def using_push(colors_in_the_rainbow, next_color)
-  next_color.push
+def using_push(array, string)
+  array.push
 end
